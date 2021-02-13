@@ -1,0 +1,44 @@
+@extends('layouts.app')
+
+
+@section('content')
+ <!-- general form elements -->
+ <div class="box box-primary">
+    <div class="box-header with-border">
+        <h1 class="box-title">Add New DonorType</h1>
+        <div class="pull-right">
+            <a class="btn btn-primary" href="{{ route('donortypes.index') }}"> Back</a>
+        </div>
+    </div>
+    <!-- /.box-header -->
+    @if ($errors->any())
+        <div class="alert alert-danger">
+            <strong>Whoops!</strong> There were some problems with your input.<br><br>
+            <ul>
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+    @endif
+    <!-- form start -->
+    @if(isset($donortype))
+    <form action="{{ route('donortypes.update',$donortype->id) }}" method="POST">
+    @method('PUT')
+    @else
+    <form action="{{ route('donortypes.store') }}" method="POST">
+    @endif
+        @csrf
+            <div class="box-body">
+                <div class="form-group">
+                    <label for="">DonorTypes</label>
+                    <input type="text" name="type_name" value = "{{isset($donortype->type_name) ? $donortype->type_name : old('type_name')}}" class="form-control" placeholder="DonorType">
+                </div>
+            </div>    
+            <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+    </form>
+    </div> 
+
+@endsection
