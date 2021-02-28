@@ -107,7 +107,7 @@
 <body class="hold-transition login-page" style="border:25px solid blue;border-color: #3b5998">
 <div class="login-box">
   <div class="login-logo">
-    <a href="#">LC Management</a>
+    <a href="#">King</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
