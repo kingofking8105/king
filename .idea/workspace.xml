@@ -1,13 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e3356d-8750-4ef7-970c-149fd92b1c7b" name="Default Changelist" comment="" />
+    <list default="true" id="f1e3356d-8750-4ef7-970c-149fd92b1c7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Website/WebsiteController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/website/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lcManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lcManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AcademicYear/AcademicYearController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CommentCategory/CommentCategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CountryState/BlockController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CountryState/CountryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CountryState/DistrictController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CountryState/StateController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DonationDuration/DonationDurationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DonationFrequency/DonationFrequencyController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DonationType/DonationTypeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Donor/DonorController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DonorProject/DonorProjectController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DonorType/DonorTypeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Facility/FacilityController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Lc/LcController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LcTicket/LcTicketController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LcTicketCategory/LcTicketCategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LeaveReason/LeaveReasonController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PermissionController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Pngo/PngoController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Pngo/PngoTypeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PngoProject/PngoProjectController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Poc/PocController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectManager/ProjectManagerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectOfficer/ProjectOfficerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/RoleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Student/StudentAttendanceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Student/StudentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Teacher/TeacherAttendanceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Teacher/TeacherController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Teacher/TeacherScoreController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TerritoryOfficer/TerritoryOfficerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TicketComment/TicketCommentController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/CommentCategory/CommentCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/DonationDuration/DonationDuration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/DonationFrequency/DonationFrequency.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/DonationType/DonationType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Donor/Donor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/DonorProject/DonorProject.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/DonorType/DonorType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Facility/Facility.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Lc/Lc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Lc/LcLog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/LcTicket/LcTicket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/LcTicketCategory/LcTicketCategory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/LeaveReason/LeaveReason.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Pngo/Pngo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Pngo/PngoType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/PngoProject/PngoProject.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Poc/Poc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/ProjectManager/ProjectManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/ProjectOfficer/ProjectOfficer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Student/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Student/StudentAttendance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Teacher/Teacher.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Teacher/TeacherAttendance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/Teacher/TeacherScore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/TerritoryOfficer/TerritoryOfficer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Model/TicketComment/TicketComment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/commentcategory/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/commentcategory/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationduration/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationduration/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationfrequency/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationfrequency/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationfrequeny/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationfrequeny/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationtype/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donationtype/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donor/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donor/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donorproject/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donorproject/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donortype/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/donortype/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/facility/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/facility/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lc/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lc/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lcticket/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lcticket/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lcticketcategory/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lcticketcategory/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/leavereason/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/leavereason/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngo/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngo/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngoproject/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngoproject/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngotype/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pngotype/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/poc/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/poc/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projectmanager/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projectmanager/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projectofficer/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projectofficer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/roles/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/roles/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/roles/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/roles/show.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/studentattendance/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/studentattendance/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacher/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacher/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacherattendance/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacherattendance/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacherscore/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacherscore/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/territoryofficer/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/territoryofficer/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ticketcomment/form.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ticketcomment/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +157,107 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1oPa8ciEjsZYf0b3qmgpRVXiGRk" />
   <component name="ProjectViewState">
@@ -45,6 +286,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613190521072</updated>
       <workItem from="1613190522527" duration="184000" />
+      <workItem from="1614490747783" duration="10535000" />
     </task>
     <servers />
   </component>
