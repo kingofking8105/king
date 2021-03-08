@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Satta king | Sattaking | Satta result | Gali satta result | Satta king live online result</title>
+    <title>Satta king | Sattaking | Satta result | Gali satta result | Satta king live online result sattakingkk satta king kk sattaking kk</title>
     <meta name="description" content="Satta king, Sattaking, सट्टा किंग, Satta king 2020, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
     <meta name="keywords" content="Satta king, Sattaking, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2020 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
     <meta name="author" content="Satta king">
@@ -50,9 +50,9 @@
     <p style=" font-size: 16px; color: red; ">गली दिसावर, गाजियाबाद, Direct Satta कंपनी से लीक सिंगल Jodi 1001% फ़ाइनल
         यहां सिर्फ कंपनी का काम है लीक सिंगल जोड़ी के लिए हमसे कोंटेक्ट करें
         <br>गेम बुकिंग करवाने के लिए Call Ya WhatsApp करे</p>
-    <p style="font-size:18px; color:green">Tony </p>
-    <p style="font-size:22px; color:#000">08607288105</p>
-    <a href="tel:>08607288105"><button style="height: 40px;width: 220px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp chat Me</b></font></button></a>
+    <p style="font-size:18px; color:green">Rajesh Director </p>
+    <p style="font-size:22px; color:#000">08607268109</p>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 220px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp chat Me</b></font></button></a>
 </div>
 <section class="game">
     <div>
@@ -78,10 +78,10 @@
     <p style=" font-size: 16px; color: BLACK; ">
         जिसमे आपको मिलेगी गली और दिसावर कि 1 गेम जो कि company से आयेगि तो देर किस बात कि दोस्तो 1 गेम लगाओ और मालोमाल हो जाओ और हर रोज पैसा कमाओ
     </p>
-    <p style="font-size:18px; color:green">Rekha Madam & Sunil Sir
+    <p style="font-size:18px; color:green">Sweety Madam & Vikrant Sir
     </p>
-    <p style="font-size:22px; color:#000">09140768102</p>
-    <a href="tel:09140768102"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Whatsapp now</b></font></button></a>
+    <p style="font-size:22px; color:#000">08607268109</p>
+    <a href="tel:08607268109"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Whatsapp now</b></font></button></a>
 </div>
 </p>
 </font>
@@ -93,11 +93,11 @@
         Game Pass Proof Whatsapp Par Lijiye
         गमे पास कराने की हमारी गारंटी होगी
     </p>
-    <p style="font-size:20px; color:green">Anjali Arora<br>
+    <p style="font-size:20px; color:green"> Mana Lisa<br>
     <p style="font-size:20px; color:BROWN">Chief Executive Officer<br>
-    <p style="font-size:25px; color:#000">07905315705</p>
-    <a href="tel:>07905315705"><button style="height: 40px;width: 130px;background-color: red;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>CALL NOW</b></font></button></a>
-    <a href="tel:>07905315705"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
+    <p style="font-size:25px; color:#000">08607268109</p>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 130px;background-color: red;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>CALL NOW</b></font></button></a>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
@@ -662,22 +662,22 @@ DINAR-DR</font>
     <p style=" font-size: 16px; color: red; ">गली दिसावर, गाजियाबाद, गैमो की कंपनी से डायरेक्ट लीक सिंगल जोड़ी के लिए हमसे कोंटेक्ट करें मैं नहीं मेरा काम बोलता है Singal jodi me game 100% Pass </p>
     <p style="font-size:18px; color:green">PREETI AGARWAL CHAIRMAN</p>
     <p style="font-size:16px; color:blue">SATTA COMPANY CHAIRMAN</p>
-    <p style="font-size:22px; color:#000">08303999486</p>
-    <a href="tel:>08303999486"><button style="height: 40px;width: 220px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp chat Me</b></font></button></a>
+    <p style="font-size:22px; color:#000">08607268109</p>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 220px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp chat Me</b></font></button></a>
 </div>
 <div style="background-color: white;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">गली दिसावर सिंगल जोड़ी कंपनी से लीक गेम जो होगा 100% फिक्स अभी व्हाट्सएप मैसेज करके अपना गेम बुक करवाये</p>
     <p style="font-size:20px; color:green"> Prabha Thakur Md </p>
-    <p style="font-size:18px; color:#000">07417600605</p>
-    <a href="tel:07417600605"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call now</b></font></button></a>
-    <a href="tel:07417600605"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
+    <p style="font-size:18px; color:#000">08607268109</p>
+    <a href="tel:08607268109"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call now</b></font></button></a>
+    <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
 </div>
 <div style="background-color: #fdfd70;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; "> हमसे करे कांटेक्ट हम करवायने आपका लॉस पूरा गेम पास के बाद रूपये। अभी सेवा करने का मौका दे और महीने मै 4 से 5 लाख कमाए। </p>
     <p style="font-size:20px; color:green"> Praveen Tomar </p>
-    <p style="font-size:18px; color:#000">09027694013</p>
-    <a href="tel:09027694013"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call now</b></font></button></a>
-    <a href="tel:>09027694013"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
+    <p style="font-size:18px; color:#000">08607268109</p>
+    <a href="tel:08607268109"><button style="height: 35px;width: 150px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call now</b></font></button></a>
+    <a href="tel:>08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
@@ -708,8 +708,8 @@ DINAR-DR</font>
     </p>
     <p style="font-size:20px; color:green">
         Sunil Thakur</p>
-    <p style="font-size:25px; color:#000">07465905472</p>
-    <a href="tel:07465905472"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
+    <p style="font-size:25px; color:#000">08607268109</p>
+    <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
 </div>
 <div style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">आप सभी भाइयों के लिए खुशखबरी
@@ -2746,9 +2746,9 @@ DINAR-DR</font>
 <div style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">गली दिसावर का मिलेगा सिंगल जोड़ी लीक सभी अपना लॉस कवर कर लो ऐसा मौका हाथ से जाने ना दो तो देरी किस बात की जल्दी से जल्दी व्हाट्सएप करें </p>
     <p style="font-size:20px; color:green"> Adity Shukla</p>
-    <p style="font-size:25px; color:#000">07217228071</p>
-    <a href="tel:07217228071"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
-    <a href="tel:07217228071"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
+    <p style="font-size:25px; color:#000">08607268109</p>
+    <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
+    <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
 </div>
 <br>
 <section class="warning-section" style="background: #ffff58;">
@@ -2822,9 +2822,9 @@ DINAR-DR</font>
     </p>
     <p style="font-size:20px; color:green">Seema Jain Md</p>
     <p style="font-size:20px; color:yellow">Managing Director</p>
-    <p style="font-size:25px; color:#000">07007116134</p>
-    <a href="tel:>07007116134"><button style="height: 40px;width: 130px;background-color: red;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>CALL NOW</b></font></button></a>
-    <a href="tel:>07007116134"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
+    <p style="font-size:25px; color:#000">08607268109</p>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 130px;background-color: red;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>CALL NOW</b></font></button></a>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
 </div>
 <section>
     <div class="foottab">
@@ -2842,8 +2842,8 @@ DINAR-DR</font>
         या अपना Board डलवाना हो<br>
         ONLY WHATSAPP AVAILABL</p>
     <p style="font-size:22px; color:green">Site Owner Contact Me</p>
-    <p style="font-size:25px; color:#000">8318686042</p>
-    <a href="tel:>8318686042"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
+    <p style="font-size:25px; color:#000">08607268109</p>
+    <a href="tel:>08607268109"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
 </div>
 <section class="footer container">
     <a href="index.php" style="font-size:17px">HOME |</a>
