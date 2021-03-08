@@ -7,6 +7,7 @@ namespace App\Http\Controllers\Website;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\User;
+use App\Model\Result\Result;
 use Spatie\Permission\Models\Role;
 use DB;
 use Hash;
@@ -22,9 +23,9 @@ class WebsiteController extends Controller
      */
     public function index(Request $request)
     {
-        $data = User::orderBy('id','DESC')->paginate(5);
-        return view('website.index',compact('data'))
-            ->with('i', ($request->input('page', 1) - 1) * 5);
+        $results = Result::orderBy('date','asc')->get();
+        //dd($data);
+        return view('website.index',compact('results'));
     }
 
 
