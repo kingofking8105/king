@@ -23,7 +23,7 @@
 <body class="body-main">
 <div class="navbar">
     <div class="link1">
-        <a href="index.php">Satta king</a>
+        <a href="/">Satta king</a>
     </div>
     <!--div class="link2">
         <a href="satta-king-leak-number.php">Satta Leak</a>
@@ -37,7 +37,7 @@
 </div>
 <section class="content">
     <h2 style="margin-bottom: -3px;font-size:12px;line-height:20px;    border: dotted red;">SATTA KING, SATTAKING, SATTA RESULT
-        <br><a href="index.php" style="font-size:20px; text-shadow: 1px 1px red;
+        <br><a href="/" style="font-size:20px; text-shadow: 1px 1px red;
     font-size: 20px;color:red">WWW.SATTAKINGG.IN</a>
     </h2></section>
 <div style="background-color: #fff0e0;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
@@ -101,7 +101,7 @@
         <div class="container-fluid game-wala">
             <div class="border row">
                 <div class="border column" style="padding: 0 1px 0 1px; border: 1px solid black; background-color:#003300">
-                    <div align="center"><span><a href="index.php">
+                    <div align="center"><span><a href="/">
                         <font style="text-transform: uppercase; color:#fff;font-size:18px; font-weight:bold; padding-left:2px; padding-right:2px">
                         DISHAWAR OLD</font>
                         </a></span><br>
@@ -238,11 +238,11 @@
 <br>
 <section class="warning-section" style="background: #ffff58;">
     <h2>What is Satta king ?</h2>
-    <p>Satta King(<a href="index.php">सट्टा किंग</a>) is a kind of lottery game based on numbers from 00 to 99 which comes under "Gambling". The real name of this game is Satta Matka, in which "Satta" means betting or gambling and "Matka" means a pot through which a number is drawn out. In the Satta Matka game, people wager money on their chosen numbers from between 00 to 99. After which, a number is drawn out of the pot. Whichever person's number was drawn out, he would win the prize and people called him as the Sattaking. Satta King(सट्टा किंग) is not the name of the game, it was the title used to honor the winner of the Satta Matka. But as this game became popular, people started knowing it by the name of Sattaking.</p>
+    <p>Satta King(<a href="/">सट्टा किंग</a>) is a kind of lottery game based on numbers from 00 to 99 which comes under "Gambling". The real name of this game is Satta Matka, in which "Satta" means betting or gambling and "Matka" means a pot through which a number is drawn out. In the Satta Matka game, people wager money on their chosen numbers from between 00 to 99. After which, a number is drawn out of the pot. Whichever person's number was drawn out, he would win the prize and people called him as the Sattaking. Satta King(सट्टा किंग) is not the name of the game, it was the title used to honor the winner of the Satta Matka. But as this game became popular, people started knowing it by the name of Sattaking.</p>
     <br>
     <h2>History of Satta Matka game</h2>
-    <p>If you too are interested in knowing about the history of Satta Matka, then you have come to the right place. Satta Matka <a href="index.php">Satta king result</a> started in the 1950s, while most people bet on the opening and closing prices of cotton, which was then sent from Bombay Cotton Exchange to New York Cotton Exchange, via teleprinters.<br>
-        1. In 1961, when the New York Cotton Exchange banned this type of betting, then these punters / gamblers had to think of other ways to keep this satta matka <a href="index.php">Satta King Result</a> business alive.<br>
+    <p>If you too are interested in knowing about the history of Satta Matka, then you have come to the right place. Satta Matka <a href="/">Satta king result</a> started in the 1950s, while most people bet on the opening and closing prices of cotton, which was then sent from Bombay Cotton Exchange to New York Cotton Exchange, via teleprinters.<br>
+        1. In 1961, when the New York Cotton Exchange banned this type of betting, then these punters / gamblers had to think of other ways to keep this satta matka <a href="/">Satta King Result</a> business alive.<br>
         2. In 1962, a second emperor, Kalyanji Bhagat, who owned a grocery shop from Worli, started Kalyan Worli Matka in which, according to his new rules, even the poorest of the poor could stake it. 1 rupees only.<br>
         3. At the same time after two years, Ratan Khatri resumed the New Worli Matka in 1964, in which he made some changes in the rules of the game.<br>
         4. Where Kalyanji Bhagat’s Matka used to run all days of the week, Ratan Khatri’s Matka used to run only six days a week.<br>
@@ -254,7 +254,7 @@
         Even after this, other Satta Matka are more popular today such as Gali , Disawar, Faridabad, Delhi Bazaar, Kuber, JD Durga, New Faridabad, etc.). Next you will get complete information related to Satta Matka in this article.</p>
     <br>
     <h2>How many types of Satta king game ?</h2>
-    <p>The <a href="index.php">Satta King</a> game don’t have any type itself. When people start a new game in <a href="index.php">Sattaking</a>, people name the game with the name of different City, State and places. Such as Gali, Deshawar, Ghaziabad, Faridabad, Mumbai Morning, Delhi King, Dubai King etc. Although there are many types of Satta King games played in India, but out of all, 4 games (Gali, Deshawar, Gaziyabad, Faridabad) are played the most in the whole of India. Deshawar game is most popular. This game is from Dubai and is operated from there.</p>
+    <p>The <a href="/">Satta King</a> game don’t have any type itself. When people start a new game in <a href="/">Sattaking</a>, people name the game with the name of different City, State and places. Such as Gali, Deshawar, Ghaziabad, Faridabad, Mumbai Morning, Delhi King, Dubai King etc. Although there are many types of Satta King games played in India, but out of all, 4 games (Gali, Deshawar, Gaziyabad, Faridabad) are played the most in the whole of India. Deshawar game is most popular. This game is from Dubai and is operated from there.</p>
     <br>
     <h2>How to play satta king game ?</h2>
     <p>In Satta King game, people wager bets on their chosen numbers between 0 and 99. For this the bettors contact their area’s Khaiwal. Khaiwal works as a mediator/middle man between the bettors and the game operators. Every Khaiwal collects money and the number from the players of his area and sends it to the company. And once a winner is declared he collects the winnings from the company and delivers it to the winning bettor.
@@ -264,18 +264,18 @@
     <p>Suppose if someone has bet 10 rupees on a number, then if that number is opened then the user will get 10 x 90 = 900 Rupees. Similarly, users will get 1800 rupees for 20 rupees, 2700 rupees for 30 rupees, 3600 rupees for 40 rupees and 4500 rupees for 50 rupees. The user can invest as much money as he wants on one number and can play many numbers as he wants.</p>
     <br>
     <h2>Is it legal to play satta king game ?</h2>
-    <p>The legality of the <a href="index.php">Satta king online</a> is determined by the local government where the game is being played. If we talk about India, Betting is illegal and if caught playing you may have to pay heavy fine or serve a jail term. Still many people play sattaking in hiding from the authorities. Satta king is quite popular in India.</p>
+    <p>The legality of the <a href="/">Satta king online</a> is determined by the local government where the game is being played. If we talk about India, Betting is illegal and if caught playing you may have to pay heavy fine or serve a jail term. Still many people play sattaking in hiding from the authorities. Satta king is quite popular in India.</p>
     <br>
     <h2>How to play satta king online and why ?</h2>
     <p>Why should we play satta king online? If we talk about this, then the simple answer is that it is much easier to play Satta king onlne. If you want to play sattaking and stay safe from the police then playing satta king online could be a safe and better alternative. In the world of internet, catching online players is not an easy task. Yet we want to explicitly clarify here that according to the Indian laws betting is illegal and if caught betting you may have to pay a hefty fine.
         If you desire you may find many applications on the Google Play store, which can aid you to play sattaking game online. All you have do is to download the application and install it. Then you can play satta game at the comfort of your home.</p>
     <br>
     <h2>What happen when you play satta king ?</h2>
-    <p>Most people have the misconception that if they play <a href="index.php">Satta</a>, they will win and they will earn good money. But this happens quite the opposite. Those people get trapped in such game so badly that they lose everything and get ruined.
+    <p>Most people have the misconception that if they play <a href="/">Satta</a>, they will win and they will earn good money. But this happens quite the opposite. Those people get trapped in such game so badly that they lose everything and get ruined.
         As you know, only one number from 00 to 99 opens in this game. This means that in this game, out of 100 people only one man gets a lottery. The remaining 99 people only lose. And the whole money of 99 losers is given to the winner. The chances of winning in this game are 1% out of 100. People know about this but still they play this game till they are completely ruined.</p>
     <br>
     <h2>What is the reality of satta king game ?</h2>
-    <p>Many people have different views about Satta King Game. Some say it is a game of luck, some call it a game of Sattta King <a href="index.php">Satta result</a>. Actually, the slip that must be removed from Matka should be done in front of everyone. That is, it should be done in the presence of all the people. But this is not done in today's time, rather the Satta King according to his own slip comes out. Which really increases my suspicions over this game even more. Because I think he declares the slip in which very few people are putting their money. Due to this, most people lose money, this makes them more profitable. Most people call it a game of luck but in reality the story is something else. Therefore, in our opinion, you should stay away from this type of gambling or Satta Matka in hindi. It is good for all of you. Work hard and do not earn money and keep sitting on luck.</p>
+    <p>Many people have different views about Satta King Game. Some say it is a game of luck, some call it a game of Sattta King <a href="/">Satta result</a>. Actually, the slip that must be removed from Matka should be done in front of everyone. That is, it should be done in the presence of all the people. But this is not done in today's time, rather the Satta King according to his own slip comes out. Which really increases my suspicions over this game even more. Because I think he declares the slip in which very few people are putting their money. Due to this, most people lose money, this makes them more profitable. Most people call it a game of luck but in reality the story is something else. Therefore, in our opinion, you should stay away from this type of gambling or Satta Matka in hindi. It is good for all of you. Work hard and do not earn money and keep sitting on luck.</p>
     <br>
     <h2>What is Satta King? Complete information ?</h2>
     <p>Disavar Gali Faridabad Ghaziabad, Gurgaon etc., Satta King all of these times are also different. Still, the percentage of the payment amount will be the same. This is how you can play betting, in every city, there are some betting brokers, who take the bet, they can give you a small slip instead, you will pay the same when the chance comes, you will get the result You can see, there are thousands of sites on the Internet on which you can see the results, on all the places you will get all kinds of speculative results</p><p>, on all the places you will get all kinds of speculative results, on the insight you will also find speculative charts, such as which day in which day Number came, is there speculative legal in India, Satta King no speculative legal in India, risky in India is played secretly and secretly if any kind of legal action was on you Land, you may be sentenced to 6 months to 3 years.</p>
@@ -287,10 +287,10 @@
     <p>Hello friends today we will talk about <a href="inex.php">Satta King game</a>, as you can tell, friends India has more population, and India's employment rate is meagre, India has more people and most people Small businesses do their business by doing business, in the meantime comes Satta King, Satta King Game most people play in the greed to earn quick money, someone of Satta King Game There is no rule that you can play only with a standard amount, that is why people of India like the Satta King game, that's why the Satta King game is viral in India, and it is played a lot.</p>
     <br>
     <h2>Where to get fast satta king result ?</h2>
-    <p>Lots of people play satta king daily becouse they are very addicted to it. They don't care about their money they just want ot play satta king. They bet daily on different games of satta king like Gali, Dishawar, Faridabad, Gaziyabad etc. The result timminng of these Satta king game are fixed by company. For example Dishawar Satta king result open at 5:00 AM, Faridabad Satta king result open at 6:15 PM, Gaziyabad <a href="index.php">Satta king result</a> open at 8:00 PM and Gali Satta king result open at 11:00 PM. So Peoples wait for every game result in which they has invested their money. There are two ways of getting Satta king Result. If you want fast Satta king result you should stay touch with your khaiwal. Beocuse khaiwal is the only person who can provide yhou fastest Satta Result. There is another way of getting <a href="index.php">Satta result</a>. You can Search Satta king on google. You will find many websites which provide Satta king result. But this website update result Slightly late. Many run whatsapp gorups for Satta result. You can also join that groups for getting Satta king result.</p>
+    <p>Lots of people play satta king daily becouse they are very addicted to it. They don't care about their money they just want ot play satta king. They bet daily on different games of satta king like Gali, Dishawar, Faridabad, Gaziyabad etc. The result timminng of these Satta king game are fixed by company. For example Dishawar Satta king result open at 5:00 AM, Faridabad Satta king result open at 6:15 PM, Gaziyabad <a href="/">Satta king result</a> open at 8:00 PM and Gali Satta king result open at 11:00 PM. So Peoples wait for every game result in which they has invested their money. There are two ways of getting Satta king Result. If you want fast Satta king result you should stay touch with your khaiwal. Beocuse khaiwal is the only person who can provide yhou fastest Satta Result. There is another way of getting <a href="/">Satta result</a>. You can Search Satta king on google. You will find many websites which provide Satta king result. But this website update result Slightly late. Many run whatsapp gorups for Satta result. You can also join that groups for getting Satta king result.</p>
     <br>
     <h2>How to get Satta king leak number ?</h2>
-    <p>Everyone want to get Satta king leak number of Gali, Dishawar, Gaziyabad, Faridabad game So that they can make huge profit by winning the game. If you search on google, you will find many websites on google where many people has posted there ads for providing <a href="index.php">Satta king leak</a> jodi directly from company. But for this they charged heavy amount from you. If you find any Such person on internet Please think twice before paying to him. Most the person are scammers in this game. They don't have any connection with company. They all are Individuals who just give you random numbers by saying that it is leak number directly from company. Some person ask you to pay in advance and some person ask you to pay a percentage of winning amount after you win the game. If you person told you to pay after passing the game that doesn't means that you will be in profit or will not lose your money. Becouse the person who want you to pay after passing the game will also give you a 2 or 4 jodi of random numbers and they will told you to invest big money on these number. If you invest big amount on that numbers and if that numbers get out as a winning numbers that then you will earn huge money and you have to share a percentage of winning amount with that person. In short youbcan't get Satta king leak number from any where. It's all just a trape to earn money from user like you.</p>
+    <p>Everyone want to get Satta king leak number of Gali, Dishawar, Gaziyabad, Faridabad game So that they can make huge profit by winning the game. If you search on google, you will find many websites on google where many people has posted there ads for providing <a href="/">Satta king leak</a> jodi directly from company. But for this they charged heavy amount from you. If you find any Such person on internet Please think twice before paying to him. Most the person are scammers in this game. They don't have any connection with company. They all are Individuals who just give you random numbers by saying that it is leak number directly from company. Some person ask you to pay in advance and some person ask you to pay a percentage of winning amount after you win the game. If you person told you to pay after passing the game that doesn't means that you will be in profit or will not lose your money. Becouse the person who want you to pay after passing the game will also give you a 2 or 4 jodi of random numbers and they will told you to invest big money on these number. If you invest big amount on that numbers and if that numbers get out as a winning numbers that then you will earn huge money and you have to share a percentage of winning amount with that person. In short youbcan't get Satta king leak number from any where. It's all just a trape to earn money from user like you.</p>
     <br>
     <h2>Can you become rich by playing Satta King game.</h2>
     <p>The easiest way to make money without doing any hard work is by gambling. It may involve taking a lot of risks but the reward makes it worth it. Satta Matka is one of those forms of gambling in which you can crapload of money in a very short time span. Yes, you can definitely get rich by playing Satta king game. But for this, you should know how to play Satta king game very well. And also Luck is one of the very important factors in the game of gambling. If you’re one of those who has luck on the side then you stand a great chance to crack the game. point of the talk is about the games that the gamblers can win consistently when they play it with the right strategy. Only invest that much of money which could bring back a good profit for you and would not hurt you pocket if you're loosing it.</p>
@@ -331,14 +331,14 @@
     <a href="tel:>08607268109"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
 </div>
 <section class="footer container">
-    <a href="index.php" style="font-size:17px">HOME |</a>
+    <a href="/" style="font-size:17px">HOME |</a>
     <a href="about.php" style="font-size:17px">ABOUT |</a>
     <a href="contact.php" style="font-size:17px">CONTACT |</a>
     <a href="faq.php" style="font-size:17px">FAQ |</a>
     <a href="disclaimer.html" style="font-size:17px">DISCLAIMER |</a>
     <a href="Privacy-Policy.html" style="font-size:17px">PRIVACY POLICY |</a><br>
     <a href="sitemap.xml" style="font-size:17px">SITEMAP |</a>
-    <footer class="fname">&copy; 2020 <a href="index.php">WWW.SATTAKINGG.IN</a></footer>
+    <footer class="fname">&copy; 2020 <a href="/">WWW.SATTAKINGG.IN</a></footer>
 </section>
 </div>
 <style>
