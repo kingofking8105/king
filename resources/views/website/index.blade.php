@@ -3,10 +3,10 @@
 <html lang="en-us">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Satta king | Sattaking | Satta result | Gali satta result | Satta king live online result sattakingkk satta king kk sattaking kk</title>
-    <meta name="description" content="Satta king, Sattaking, सट्टा किंग, Satta king 2020, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
-    <meta name="keywords" content="Satta king, Sattaking, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2020 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
+    <meta name="description" content="Satta kingkk, Sattakingkk, सट्टा किंग,Satta king, Satta kingkk 2021, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
+    <meta name="keywords" content="Satta king, Sattaking, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2021 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Gali satta king result, Disawar satta king result, Faridabad satta king result, Gaziyabad satta king result">
     <meta name="author" content="Satta king">
-    <link rel="canonical" href="https://sattakingg.in" />
+    <link rel="canonical" href="https://sattakingkk.com" />
     <link rel="stylesheet" href="style1.css">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="https://sattakingg.in/assets/favicon.ico" type="image/x-icon">
@@ -33,12 +33,12 @@
     </div-->
 </div>
 <div class="text_slide">
-    <marquee><h1 style="font-size:14px; color:red">Satta king, Sattaking, Satta king 2020, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2020 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Desawar Single Jodi</h1></marquee>
+    <marquee><h1 style="font-size:14px; color:red">Satta king, Sattaking, Satta king 2021, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2021 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Desawar Single Jodi</h1></marquee>
 </div>
 <section class="content">
     <h2 style="margin-bottom: -3px;font-size:12px;line-height:20px;    border: dotted red;">SATTA KING, SATTAKING, SATTA RESULT
         <br><a href="/" style="font-size:20px; text-shadow: 1px 1px red;
-    font-size: 20px;color:red">WWW.SATTAKINGG.IN</a>
+    font-size: 20px;color:red">WWW.SATTAKINGKK.COM</a>
     </h2></section>
 <div style="background-color: #fff0e0;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style="font-size:16px; color:green">गली ओर दिसावर में होगा धमाका सिंगल जोड़ी में </p>
@@ -48,7 +48,7 @@
     <p style="font-size:22px; color:#000">08607268109</p>
     <a href="tel:>08607268109"><button style="height: 34px;width: 220px;background-color: GREEN;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp Chat Me </b></font></button></a>
 </div>
-<div style="background-color: WHITE;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
+<!--div style="background-color: WHITE;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">गली दिसावर, गाजियाबाद, Direct Satta कंपनी से लीक सिंगल Jodi 1001% फ़ाइनल
         यहां सिर्फ कंपनी का काम है लीक सिंगल जोड़ी के लिए हमसे कोंटेक्ट करें
         <br>गेम बुकिंग करवाने के लिए Call Ya WhatsApp करे</p>
@@ -180,7 +180,7 @@
     <p style="font-size:25px; color:#000">08607268109</p>
     <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
 </div>
-<div style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
+<div-- style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">आप सभी भाइयों के लिए खुशखबरी
         जो भाई सट्टे के काम में बहुत ज्यादा लॉस में हैं वह हमसे संपर्क करें
     </p>
@@ -188,7 +188,7 @@
         vishnu</p>
     <p style="font-size:25px; color:#000">0xxxxxxx</p>
     <a href="tel:0xxxxxxx"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
-</div>
+</div-->
 
 <section class="table-main">
     <div style="width:100%; overflow-x: scroll; margin: auto">
@@ -228,13 +228,13 @@
     </div>
 
 </section>
-<div style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
+<!--div style="background-color: #C1FF00;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">गली दिसावर का मिलेगा सिंगल जोड़ी लीक सभी अपना लॉस कवर कर लो ऐसा मौका हाथ से जाने ना दो तो देरी किस बात की जल्दी से जल्दी व्हाट्सएप करें </p>
     <p style="font-size:20px; color:green"> Adity Shukla</p>
     <p style="font-size:25px; color:#000">08607268109</p>
     <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
     <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
-</div>
+</div-->
 <br>
 <section class="warning-section" style="background: #ffff58;">
     <h2>What is Satta king ?</h2>
@@ -300,8 +300,8 @@
         This website is being run only through the preaching of entertainment. The website owner and we have nothing to do with any speculative company. Give money transactions on your responsibility. The website owner shall not be responsible for any fraud.</p>
 </section>
 <br>
-</div>
-<div style="background-color:#FFBFBA; color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
+
+<!--div style="background-color:#FFBFBA; color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">
         गेम गली दिसावर फरीदबाद गाजियाबाद का मिलेगा बिल्कुल डेट फिक्स डायरेक्ट Satta कंपनी से लीक सभी अपना लॉस कवर कर लो ऐसा मौका हाथ से जाने ना दो तो देर किस बात की जल्दी कांटेक्ट करें 𝙶𝚊𝚖𝚎 𝙳𝚒𝚛𝚎𝚌𝚝 𝚂𝚊𝚝𝚝𝚊 𝙲𝚘𝚖𝚙𝚊𝚗𝚢 𝚂𝚎 𝙻𝚎𝚎𝚔 𝙼𝚒𝚕𝚎𝚐𝚊 𝚂𝚒𝚗𝚐𝚕𝚎 𝙹𝚘𝚍𝚒 𝙺𝚊𝚊 𝙿𝚕𝚊𝚗 𝙷𝚊𝚒 𝙱𝚘𝚘𝚔 𝙺𝚊𝚛𝚠𝚊𝚢𝚎 𝙾𝚛 𝙻𝚘𝚜𝚜 𝙲𝚘𝚟𝚎𝚛 𝙺𝚊𝚛𝚎𝚗
     </p>
@@ -329,8 +329,8 @@
     <p style="font-size:22px; color:green">Site Owner Contact Me</p>
     <p style="font-size:25px; color:#000">08607268109</p>
     <a href="tel:>08607268109"><button style="height: 40px;width: 180px;background-color: green;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp NOW</b></font></button></a>
-</div>
-<section class="footer container">
+</div-->
+<!--section class="footer container">
     <a href="/" style="font-size:17px">HOME |</a>
     <a href="about.php" style="font-size:17px">ABOUT |</a>
     <a href="contact.php" style="font-size:17px">CONTACT |</a>
@@ -338,9 +338,9 @@
     <a href="disclaimer.html" style="font-size:17px">DISCLAIMER |</a>
     <a href="Privacy-Policy.html" style="font-size:17px">PRIVACY POLICY |</a><br>
     <a href="sitemap.xml" style="font-size:17px">SITEMAP |</a>
-    <footer class="fname">&copy; 2020 <a href="/">WWW.SATTAKINGG.IN</a></footer>
-</section>
-</div>
+    <footer class="fname">&copy; 2021 <a href="/">WWW.SATTAKINGKK.COM</a></footer>
+</section-->
+
 <style>
     body
         /* Button used to open the contact form - fixed at the bottom of the page */
