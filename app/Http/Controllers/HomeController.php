@@ -1,6 +1,6 @@
 <?php
 namespace App\Http\Controllers;
-use App\Model\Lc\Lc;
+
 use DB;
 use Illuminate\Http\Request;
 
@@ -40,7 +40,7 @@ class HomeController extends Controller
         ->select('name',DB::raw('count(lcs.id) as total'))
         ->groupBy('name')
         ->get();
-      
+
         $year = [0,0,0,0,0,0,0,0,0,0,0,0];//initialize all months to 0
         foreach($data as $key){
             if($key->month >= 1 && $key->month<=3){
@@ -51,7 +51,7 @@ class HomeController extends Controller
            $year[$k] = $key->total;//update each month with the total value
 
         }
-       
+
        $year=implode(',',$year);
         return view('home',compact(['year','stateLcs','pngoLcs','donorLcs']));
     }

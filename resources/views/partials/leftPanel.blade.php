@@ -37,7 +37,7 @@
                     <li class="active"><a href="{!! url('/home') !!}"><i class="fa fa-circle-o"></i>Home</a></li>
                 </ul>
             </li>
-        
+
             @can('user-list')
             <li class="treeview">
                 <a href="#">
@@ -99,20 +99,20 @@
             </span>
                 </a>
                 <ul class="treeview-menu">
-                    @can('projectmanager-list')   
+                    @can('projectmanager-list')
                         <li><a href="{{ route('projectmanagers.index') }}"><i class="fa fa-circle-o"></i>ProjectManagers</a></li>
                     @endcan
 
-                    @can('projectofficer-list')   
+                    @can('projectofficer-list')
                         <li><a href="{{ route('projectofficers.index') }}"><i class="fa fa-circle-o"></i>Project Officers</a></li>
                     @endcan
-                    @can('territoryofficer-list')   
+                    @can('territoryofficer-list')
                         <li><a href="{{ route('territoryofficers.index') }}"><i class="fa fa-circle-o"></i>Territory Officers</a></li>
                     @endcan
-                    <!-- @can('poc-list')   
+                    <!-- @can('poc-list')
                         <li><a href="{{ route('pocs.index') }}"><i class="fa fa-circle-o"></i>POC</a></li>
                     @endcan -->
-                    
+
                 </ul>
             </li>
             @endcan
@@ -142,7 +142,7 @@
                     @can('donortype-list')
                     <li><a href="{{ route('donortypes.index') }}"><i class="fa fa-circle-o"></i>Donor Type</a></li>
                     @endcan
-                    @can('donationtype-list')   
+                    @can('donationtype-list')
                         <li><a href="{{ route('donationtypes.index') }}"><i class="fa fa-circle-o"></i>Donation Type</a></li>
                     @endcan
                 </ul>
@@ -168,7 +168,7 @@
                     @can('pngoproject-list')
                     <li><a href="{{ route('pngoprojects.index') }}"><i class="fa fa-circle-o"></i>Pngo Projects</a></li>
                     @endcan
-                   
+
                 </ul>
             </li>
             @endcan
@@ -186,13 +186,13 @@
                     @can('student-list')
                     <li><a href="{{ route('students.index') }}"><i class="fa fa-circle-o"></i>Students</a></li>
                     @endcan
-                    @can('leavereason-list')   
+                    @can('leavereason-list')
                         <li><a href="{{ route('leavereasons.index') }}"><i class="fa fa-circle-o"></i>LeaveReasons </a></li>
                     @endcan
                     @can('studentattendance-list')
                     <li><a href="{{ route('studentattendances.index') }}"><i class="fa fa-circle-o"></i>Student Attendance</a></li>
                     @endcan
-                   
+
                 </ul>
             </li>
             @endcan
@@ -216,7 +216,7 @@
                     @can('teacherscore-list')
                     <li><a href="{{ route('teacherscores.index') }}"><i class="fa fa-circle-o"></i>Teacher Score</a></li>
                     @endcan
-                   
+
                 </ul>
             </li>
             @endcan
@@ -227,21 +227,37 @@
                     <span>Learning Centers</span>
                     <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
-                    <span class="label label-primary pull-right">3</span>
+                    <span class="label label-primary pull-right">1</span>
                     </span>
                 </a>
                 <ul class="treeview-menu">
                     @can('lc-list')
                     <li><a href="{{ route('lcs.index') }}"><i class="fa fa-circle-o"></i>Learning Centers</a></li>
                     @endcan
-                    @can('facility-list')   
+                    @can('facility-list')
                         <li><a href="{{ route('facilities.index') }}"><i class="fa fa-circle-o"></i>Facilities</a></li>
                     @endcan
-                   
+
                 </ul>
             </li>
             @endcan
-         
+
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-th"></i>
+                    <span>Result</span>
+                    <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                    <span class="label label-primary pull-right">3</span>
+            </span>
+                </a>
+                <ul class="treeview-menu">
+
+                    <li><a href="{{ route('admin.results.index') }}"><i class="fa fa-circle-o"></i>Results</a></li>
+
+
                 </ul>
             </li>
             <!---------->
@@ -253,30 +269,26 @@
             </span>
                 </a>
                 <ul class="treeview-menu">
-               
-           
-            @can('student-list')
+
+
+
             <li class="treeview">
                 <a href="#">
                     <i class="fa fa-th"></i>
-                    <span>Student</span>
+                    <span>Result</span>
                     <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
                     <span class="label label-primary pull-right">3</span>
             </span>
                 </a>
                 <ul class="treeview-menu">
-                    <!-- @can('student-list')
-                    <li><a href="{{ route('students.index') }}"><i class="fa fa-circle-o"></i>Students</a></li>
-                    @endcan -->
-                  
-                    @can('studentattendance-list')
-                    <li><a href="{{ route('studentattendances.index') }}"><i class="fa fa-circle-o"></i>Student Attendance</a></li>
-                    @endcan
-                   
+
+                    <li><a href="{{ route('admin.results.index') }}"><i class="fa fa-circle-o"></i>Results</a></li>
+
+
                 </ul>
             </li>
-            @endcan
+
             @can('teacher-list')
             <li class="treeview">
                 <a href="#">
@@ -294,7 +306,7 @@
                     @can('teacherscore-list')
                     <li><a href="{{ route('teacherscores.index') }}"><i class="fa fa-circle-o"></i>Teacher Score</a></li>
                     @endcan
-                   
+
                 </ul>
             </li>
             @endcan
@@ -312,14 +324,14 @@
                     @can('lc-list')
                     <li><a href="{{ route('lcs.index') }}"><i class="fa fa-circle-o"></i>Learning Centers</a></li>
                     @endcan
-                    @can('facility-list')   
+                    @can('facility-list')
                         <li><a href="{{ route('facilities.index') }}"><i class="fa fa-circle-o"></i>Facilities</a></li>
                     @endcan
-                  
+
                 </ul>
             </li>
             @endcan
-          
+
                 </ul>
             </li>
             @can('lcticket-list')
@@ -333,23 +345,23 @@
                     </span>
                 </a>
                 <ul class="treeview-menu">
-                    @can('lcticket-list')   
+                    @can('lcticket-list')
                         <li><a href="{{ route('lctickets.index') }}"><i class="fa fa-circle-o"></i>Tickets</a></li>
                     @endcan
-                    @can('lcticketcategory-list')   
+                    @can('lcticketcategory-list')
                         <li><a href="{{ route('lcticketcategories.index') }}"><i class="fa fa-circle-o"></i>LcTicket Category</a></li>
                     @endcan
-                    @can('ticketcomment-list')   
+                    @can('ticketcomment-list')
                         <li><a href="{{ route('ticketcomments.index') }}"><i class="fa fa-circle-o"></i>Ticket Comments</a></li>
                     @endcan
-                    <!-- @can('commentcategory-list')   
+                    <!-- @can('commentcategory-list')
                         <li><a href="{{ route('commentcategories.index') }}"><i class="fa fa-circle-o"></i>Comments Category</a></li>
                     @endcan -->
                 </ul>
             </li>
             @endcan
-           
-            <li class="treeview">
+
+            <!--li class="treeview">
                 <a href="#">
                     <i class="fa fa-file-text-o"></i>
                     <span>Reports</span>
@@ -377,7 +389,7 @@
                                 <li><a href="#"><i class="fa fa-circle-o"></i>R-QTA</a></li>
                                 <li><a href="#"><i class="fa fa-circle-o"></i>R-Average</a></li>
                             </ul>
-                        </li>  
+                        </li>
                         <li class="treeview">
                             <a href="#">
                                 <i class="fa fa-th"></i>
@@ -390,7 +402,7 @@
                             <ul class="treeview-menu">
                                 <li><a href="#"><i class="fa fa-circle-o"></i>QTA</a></li>
                             </ul>
-                        </li> 
+                        </li>
                         <li class="treeview">
                             <a href="#">
                                 <i class="fa fa-th"></i>
@@ -403,10 +415,10 @@
                             <ul class="treeview-menu">
                                 <li><a href="#"><i class="fa fa-circle-o"></i>Facility Report</a></li>
                             </ul>
-                        </li> 
+                        </li>
                 </ul>
-            </li>
-            <li class="treeview">
+            </li-->
+            <!--li class="treeview">
                 <a href="#">
                     <i class="fa fa-rupee"></i>
                     <span>Budgets</span>
@@ -420,9 +432,9 @@
                     <li><a href="#"><i class="fa fa-circle-o"></i>FUC</a></li>
                     <li><a href="#"><i class="fa fa-circle-o"></i>Variance Analysis</a></li>
                 </ul>
-            </li>
+            </li-->
         </ul>
-        
+
     </section>
     <!-- /.sidebar -->
 </aside>

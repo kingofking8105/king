@@ -20,18 +20,32 @@ Route::get('/', 'Website\WebsiteController@index')->name('/');
 //Auth::routes();
 //
 //Route::get('/home', 'HomeController@index')->name('home');
-Route::group(['prefix' => 'admin','as'=>'admin.'], function () {
-    Route::get('/', function () {
-        if(Auth::check()) {
-            return redirect()->route('home');
-        }
 
-        return view('auth.login');
-    })->name('home');
+Route::get('/admin', function () {
+
+    if(Auth::check()) {
+
+        return redirect()->route('admin.home');
+    }
+    return view('admin.login');
+})->name('home');
+Route::post('login', [ 'as' => 'login', 'uses' => 'LoginController@login']);
+Route::post('logout', [ 'as' => 'logout', 'uses' => 'LoginController@logout']);
+
+Route::group(['prefix' => 'admin','as'=>'admin.'], function () {
+
+//    Route::get('/admin/', function () {
+//        if(Auth::check()) {
+//            return redirect()->route('home');
+//        }
+//        return view('admin.login');
+//    })->name('home');
     Auth::routes();
     Route::get('/home', 'HomeController@index')->name('home');
 
 Route::group(['middleware' => ['auth']], function() {
+    Route::resource('results','Results\ResultsController');
+     Route::resource('results','Results\ResultController');
     Route::get('getState/{id}','CountryState\BlockController@getState');
     Route::get('getCity/{id}','CountryState\BlockController@getDistrict');
     Route::get('getBlock/{id}','CountryState\BlockController@getBlock');
