@@ -12,27 +12,27 @@
         </div>
         <div class="box-body">
             <div class="form-group">
-                <strong>State:</strong>
+                <strong>Date:</strong>
                 {{ $result->date }}
             </div>
             <div class="form-group">
-                <strong>District:</strong>
+                <strong>Dishawar:</strong>
                 {{ $result->dishawar }}
             </div>
             <div class="form-group">
-                <strong>District Code:</strong>
+                <strong>Faridabad:</strong>
                 {{ $result->faridabad }}
             </div>
             <div class="form-group">
-                <strong>State:</strong>
+                <strong>Gaziyabad:</strong>
                 {{ $result->gaziyabad }}
             </div>
             <div class="form-group">
-                <strong>District:</strong>
+                <strong>Gali:</strong>
                 {{ $result->gali }}
             </div>
             <div class="form-group">
-                <strong>District Code:</strong>
+                <strong>Dishawar Old:</strong>
                 {{ $result->my_dishawar }}
             </div>
         </div>

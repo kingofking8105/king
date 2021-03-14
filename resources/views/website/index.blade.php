@@ -35,7 +35,7 @@
 <div class="text_slide">
     <marquee><h1 style="font-size:14px; color:red">Satta king, Sattaking, Satta king 2021, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2021 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Desawar Single Jodi</h1></marquee>
 </div>
-<section class="content">
+<!--section class="content">
     <h2 style="margin-bottom: -3px;font-size:12px;line-height:20px;    border: dotted red;">SATTA KING, SATTAKING, SATTA RESULT
         <br><a href="/" style="font-size:20px; text-shadow: 1px 1px red;
     font-size: 20px;color:red">WWW.SATTAKINGKK.COM</a>
@@ -48,7 +48,7 @@
     <p style="font-size:22px; color:#000">08607268109</p>
     <a href="tel:>08607268109"><button style="height: 34px;width: 220px;background-color: GREEN;color:#FFF;border: double 3px red;border-radius: 20px;"><font size="4px"><b>WhatsApp Chat Me </b></font></button></a>
 </div>
-<!--div style="background-color: WHITE;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
+<div style="background-color: WHITE;color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">गली दिसावर, गाजियाबाद, Direct Satta कंपनी से लीक सिंगल Jodi 1001% फ़ाइनल
         यहां सिर्फ कंपनी का काम है लीक सिंगल जोड़ी के लिए हमसे कोंटेक्ट करें
         <br>गेम बुकिंग करवाने के लिए Call Ya WhatsApp करे</p>
