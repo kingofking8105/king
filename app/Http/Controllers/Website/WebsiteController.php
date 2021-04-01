@@ -23,7 +23,7 @@ class WebsiteController extends Controller
      */
     public function index(Request $request)
     {
-        $results = Result::orderBy('date','asc')->get();
+        $results = Result::whereMonth('date', \Carbon\Carbon::now()->month)->orderBy('date','asc')->get();
         //dd($data);
         return view('website.index',compact('results'));
     }
