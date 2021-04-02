@@ -297,7 +297,7 @@
     <br>
     <h2>Disclaimer</h2>
     <p>
-        This website is being run only through the preaching of entertainment. The website owner and we have nothing to do with any speculative company. Give money transactions on your responsibility. The website owner shall not be responsible for any fraud.</p>
+        This website is being run only through the preaching of entertainment.{{$visitor_count}} The website owner and we have nothing to do with any speculative company. Give money transactions on your responsibility. The website owner shall not be responsible for any fraud.</p>
 </section>
 <br>
 
