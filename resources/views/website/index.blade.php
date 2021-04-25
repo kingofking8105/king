@@ -1,20 +1,5 @@
 
 <!DOCTYPE html>
-<html>
-
-<head>
-    <title>About</title>
-</head>
-
-<body>
-
-<h1>About Us</h1>
-<p>Lorem Ipsum Porem Lorem Ipsum Porem</p>
-
-</body>
-</html>
-<!--
-<!DOCTYPE html>
 <html lang="en-us">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Satta king | Sattaking | Satta result | Gali satta result | Satta king live online result sattakingkk satta king kk sattaking kk</title>
@@ -40,18 +25,16 @@
     <div class="link1">
         <a href="/">Satta king</a>
     </div>
-    <div class="link2">
+    <!--div class="link2">
         <a href="satta-king-leak-number.php">Satta Leak</a>
     </div>
     <div class="link3">
         <a href="satta-king-result.php">Result chart</a>
     </div-->
-<!--
 </div>
 <div class="text_slide">
     <marquee><h1 style="font-size:14px; color:red">Satta king, Sattaking, Satta king 2021, Satta king up, Satta result, Satta king result, Satta king online, Gali result, Desawar result, Satta king chart, Satta king live, Gali satta, Deshawar live result, Gali live result, Satta matka, Satta matka king, Satta king up, Satta king 2021 chart, Satta king desawar, Satta king gali, Gali live result, Disawar live result, Satta Number, Satta Game, Gali Number, Delhi Satta king, Satta Bazar, Black satta king, Gali Single Jodi, Black Satta Result, Desawar Single Jodi</h1></marquee>
 </div>
--->
 <!--section class="content">
     <h2 style="margin-bottom: -3px;font-size:12px;line-height:20px;    border: dotted red;">SATTA KING, SATTAKING, SATTA RESULT
         <br><a href="/" style="font-size:20px; text-shadow: 1px 1px red;
@@ -206,7 +189,7 @@
     <p style="font-size:25px; color:#000">0xxxxxxx</p>
     <a href="tel:0xxxxxxx"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
 </div-->
-<!--
+
 <section class="table-main">
     <div style="width:100%; overflow-x: scroll; margin: auto">
         <table width="100%" class="rtable" style="border:1px thin; text-align:center" cellpadding="0" cellspacing="0" border="1" align="center">
@@ -252,7 +235,6 @@
     <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>WhatsApp Now</b></font></button></a>
     <a href="tel:08607268109"><button style="height: 35px;width: 180px;background-color: green;color:#FFF;border: double 3px black;border-radius: 16px;"><font size="4px"><b>Call Now</b></font></button></a>
 </div-->
-<!--
 <br>
 <section class="warning-section" style="background: #ffff58;">
     <h2>What is Satta king ?</h2>
@@ -318,7 +300,7 @@
         This website is being run only through the preaching of entertainment.{{$visitor_count}} The website owner and we have nothing to do with any speculative company. Give money transactions on your responsibility. The website owner shall not be responsible for any fraud.</p>
 </section>
 <br>
--->
+
 <!--div style="background-color:#FFBFBA; color:white;font-weight: bold;border: double 3px blue;padding: 5px;border-radius: 20px;text-align: center;">
     <p style=" font-size: 16px; color: red; ">
         गेम गली दिसावर फरीदबाद गाजियाबाद का मिलेगा बिल्कुल डेट फिक्स डायरेक्ट Satta कंपनी से लीक सभी अपना लॉस कवर कर लो ऐसा मौका हाथ से जाने ना दो तो देर किस बात की जल्दी कांटेक्ट करें 𝙶𝚊𝚖𝚎 𝙳𝚒𝚛𝚎𝚌𝚝 𝚂𝚊𝚝𝚝𝚊 𝙲𝚘𝚖𝚙𝚊𝚗𝚢 𝚂𝚎 𝙻𝚎𝚎𝚔 𝙼𝚒𝚕𝚎𝚐𝚊 𝚂𝚒𝚗𝚐𝚕𝚎 𝙹𝚘𝚍𝚒 𝙺𝚊𝚊 𝙿𝚕𝚊𝚗 𝙷𝚊𝚒 𝙱𝚘𝚘𝚔 𝙺𝚊𝚛𝚠𝚊𝚢𝚎 𝙾𝚛 𝙻𝚘𝚜𝚜 𝙲𝚘𝚟𝚎𝚛 𝙺𝚊𝚛𝚎𝚗
@@ -358,7 +340,7 @@
     <a href="sitemap.xml" style="font-size:17px">SITEMAP |</a>
     <footer class="fname">&copy; 2021 <a href="/">WWW.SATTAKINGKK.COM</a></footer>
 </section-->
-<!--
+
 <style>
     body
         /* Button used to open the contact form - fixed at the bottom of the page */
@@ -450,7 +432,7 @@
     .border {
         padding: 2px;
     }
-</style>-->
+</style>
 <!--
 <button class="open-button" onclick="openForm()" style="background:none !important; border:none;"><i class="my-float"><img src="ss.png"></i><span class="badge">3</span></button>
 <div class="form-popup" id="myForm">
@@ -460,7 +442,6 @@
     <iframe src="https://satta-results.org.in" width="280" height="300" frameborder="0" marginheight="20" marginwidth="20">Loading…</iframe>
 </div>
 -->
-<!--
 <script>
     function openForm() {
         document.getElementById("myForm").style.display = "block";
@@ -472,4 +453,3 @@
 </script>
 </body>
 </html>
--->
