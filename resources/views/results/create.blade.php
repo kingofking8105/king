@@ -50,6 +50,10 @@
                     <label for="">Dishawar OLD</label>
                     <input type="text" class="form-control"  name="my_dishawar" placeholder="Dishawar OLD">
                 </div>
+                 <div class="form-group">
+                    <label for="">Lottery</label>
+                    <input type="text" class="form-control"  name="lottery" placeholder="Lottery">
+                </div>
             </div>
             <div class="box-footer">
             <button type="submit" class="btn btn-primary">Submit</button>

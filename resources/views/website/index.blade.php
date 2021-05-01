@@ -199,6 +199,7 @@
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">8:30PM</td>
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">11:30PM</td>
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">6:00PM</td>
+            <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">7:00PM</td>
             <tr>
                 <td style="background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Date</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">DISAWER</td>
@@ -206,6 +207,7 @@
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">GAZIYABAD</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">GALI</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">DISAWER OLD</td>
+                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery</td>
             </tr>
             @forelse($results as $data)
              <tr class="tr1"> <td height="29" style="background-color:#ffff79;color:black;"><span class="fon" style="font-size:12px; font-weight:bold;color:#FF0000">{{\Carbon\Carbon::parse($data->date)->format('d-m')}}</span></td>
@@ -219,6 +221,8 @@
                     {{$data->gali}} </td>
                 <td>
                     {{$data->my_dishawar}}</td>
+                    <td>
+                    {{$data->lottery}}</td>
             </tr>
             @empty
                 <span>No record found</span>
