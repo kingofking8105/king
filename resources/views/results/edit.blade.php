@@ -55,6 +55,10 @@
                      <label for="">Dishawar OLD</label>
                      <input type="text" class="form-control"  name="my_dishawar" placeholder="Dishawar OLD" value="{{ $result->my_dishawar }}">
                  </div>
+                  <div class="form-group">
+                     <label for="">Lottery</label>
+                     <input type="text" class="form-control"  name="lottery" placeholder="Lottery" value="{{ $result->lottery }}">
+                 </div>
 		    <div class="box-footer">
 		      <button type="submit" class="btn btn-primary">Submit</button>
 		    </div>
