@@ -199,7 +199,7 @@
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">8:30PM</td>
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">11:30PM</td>
             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">6:00PM</td>
-            <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">7:00PM</td>
+           
             <tr>
                 <td style="background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Date</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">DISAWER</td>
@@ -207,7 +207,7 @@
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">GAZIYABAD</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">GALI</td>
                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">DISAWER OLD</td>
-                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery</td>
+                
             </tr>
             @forelse($results as $data)
              <tr class="tr1"> <td height="29" style="background-color:#ffff79;color:black;"><span class="fon" style="font-size:12px; font-weight:bold;color:#FF0000">{{\Carbon\Carbon::parse($data->date)->format('d-m')}}</span></td>
@@ -221,8 +221,45 @@
                     {{$data->gali}} </td>
                 <td>
                     {{$data->my_dishawar}}</td>
-                    <td>
-                    {{$data->lottery}}</td>
+                    
+            </tr>
+            @empty
+                <span>No record found</span>
+            @endforelse
+        </table>
+
+    </div>
+
+</section>
+<br>
+<section class="table-main">
+    <div style="width:100%; overflow-x: scroll; margin: auto">
+        <table width="100%" class="rtable" style="border:1px thin; text-align:center" cellpadding="0" cellspacing="0" border="1" align="center">
+            <td style="background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;"></td>
+            
+            <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">10:00AM</td>
+            <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">01:00PM</td>
+            <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">03:00PM</td>
+             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">05:00PM</td>
+             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">07:00PM</td>
+             <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">10:00PM</td>
+            <tr>
+                <td style="background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Date</td>
+                <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(5000)</td>
+                <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(1000)</td>
+                <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(1000)</td>
+                <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(1000)</td>
+                <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(1000)</td>
+                 <td style=" border-color:#000; background-color:#ffff79; color:#FF0000; font-size:12px; font-weight:bold; padding: 0px 2px 0px 2px;">Lottery(2000)</td>
+            </tr>
+            @forelse($results as $data)
+             <tr class="tr1"> <td height="29" style="background-color:#ffff79;color:black;"><span class="fon" style="font-size:12px; font-weight:bold;color:#FF0000">{{\Carbon\Carbon::parse($data->date)->format('d-m')}}</span></td>
+                <td>{{$data->lottery_ten_am}} </td>
+                <td>{{$data->lottery_one_pm}} </td>
+                <td>{{$data->lottery_three_pm}} </td>
+                <td>{{$data->lottery_five_pm}}</td>
+                <td>{{$data->lottery_seven_pm}}</td>
+                <td>{{$data->lottery_ten_pm}}</td>
             </tr>
             @empty
                 <span>No record found</span>

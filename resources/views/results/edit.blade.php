@@ -56,8 +56,29 @@
                      <input type="text" class="form-control"  name="my_dishawar" placeholder="Dishawar OLD" value="{{ $result->my_dishawar }}">
                  </div>
                   <div class="form-group">
-                     <label for="">Lottery</label>
-                     <input type="text" class="form-control"  name="lottery" placeholder="Lottery" value="{{ $result->lottery }}">
+                     <label for="">Lottery 10AM(5000)</label>
+                     <input type="text" class="form-control"  name="lottery_ten_am" placeholder="Lottery 10AM" value="{{ $result->lottery_ten_am }}">
+                 </div>
+                 <div class="form-group">
+                     <label for="">Lottery 1PM(1000)</label>
+                     <input type="text" class="form-control"  name="lottery_one_pm" placeholder="Lottery 1PM(1000)" value="{{ $result->lottery_one_pm }}">
+                 </div>
+                 <div class="form-group">
+                     <label for="">Lottery 3PM(1000)</label>
+                     <input type="text" class="form-control"  name="lottery_three_pm" placeholder="Lottery 3PM(1000)" value="{{ $result->lottery_three_pm }}">
+                 </div>
+                 <div class="form-group">
+                     <label for="">Lottery 5PM(1000)</label>
+                     <input type="text" class="form-control"  name="lottery_five_pm" placeholder="Lottery 5PM(1000)" value="{{ $result->lottery_five_pm }}">
+                 </div>
+                 
+                 <div class="form-group">
+                     <label for="">Lottery 7PM(1000)</label>
+                     <input type="text" class="form-control"  name="lottery_seven_pm" placeholder="Lottery 7PM(1000)" value="{{ $result->lottery_seven_pm }}">
+                 </div>
+                 <div class="form-group">
+                     <label for="">Lottery 10PM(2000)</label>
+                     <input type="text" class="form-control"  name="lottery_ten_pm" placeholder="Lottery 10PM" value="{{ $result->lottery_ten_pm }}">
                  </div>
 		    <div class="box-footer">
 		      <button type="submit" class="btn btn-primary">Submit</button>

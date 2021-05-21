@@ -50,9 +50,29 @@
                     <label for="">Dishawar OLD</label>
                     <input type="text" class="form-control"  name="my_dishawar" placeholder="Dishawar OLD">
                 </div>
+                <div class="form-group">
+                    <label for="">Lottery 10AM (5000)</label>
+                    <input type="text" class="form-control"  name="lottery_ten_am" placeholder="Lottery 10AM(5000)">
+                </div>
+                <div class="form-group">
+                    <label for="">Lottery 1PM(1000)</label>
+                    <input type="text" class="form-control"  name="lottery_one_pm" placeholder="Lottery 1PM(1000)">
+                </div>
+                <div class="form-group">
+                    <label for="">Lottery 3PM(1000)</label>
+                    <input type="text" class="form-control"  name="lottery_three_pm" placeholder="Lottery 3PM(1000)">
+                </div>
+                <div class="form-group">
+                    <label for="">Lottery 5PM(1000)</label>
+                    <input type="text" class="form-control"  name="lottery_five_pm" placeholder="Lottery 5PM">
+                </div>
                  <div class="form-group">
-                    <label for="">Lottery</label>
-                    <input type="text" class="form-control"  name="lottery" placeholder="Lottery">
+                    <label for="">Lottery 7PM(1000)</label>
+                    <input type="text" class="form-control"  name="lottery_seven_pm" placeholder="Lottery 7PM(1000)">
+                </div>
+                <div class="form-group">
+                    <label for="">Lottery 10PM(2000)</label>
+                    <input type="text" class="form-control"  name="lottery_ten_pm" placeholder="Lottery 10PM(2000)">
                 </div>
             </div>
             <div class="box-footer">
